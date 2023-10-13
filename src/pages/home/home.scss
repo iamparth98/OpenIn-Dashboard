@@ -1,0 +1,11 @@
+.homeContainer {
+  background-color: #f8faff;
+  display: flex;
+
+  .sidebar {
+    flex: 1;
+  }
+  .dashBoard {
+    flex: 3;
+  }
+}
